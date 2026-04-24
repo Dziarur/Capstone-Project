@@ -1,0 +1,132 @@
+Timestamp,Email Address,Nama,Umur,Asal Universitas,Jurusan,Saya merasa lebih mudah memahami logika pemrograman jika dijelaskan melalui diagram alur (flowchart),Saya lebih suka menonton video tutorial koding daripada mendengarkan penjelasan suara saja.,Penggunaan warna yang berbeda pada kode (seperti di VS Code) sangat membantu saya mengenali struktur program.,Saya sering membayangkan bagaimana alur data mengalir dalam program seperti sebuah peta di pikiran saya,Saya lebih mudah mengingat perintah Python jika saya pernah melihatnya dalam bentuk infografis atau skema.,Saya merasa lebih cepat paham jika instruktur menjelaskan materi Python secara lisan di depan kelas/webinar.,Mendengarkan diskusi atau tanya jawab antar teman tentang suatu error membantu saya menemukan solusi.,Saya sering mengulang-ulang penjelasan guru di dalam hati atau dengan suara pelan untuk memahami konsep yang sulit.,Saya lebih suka mengikuti kursus yang menyediakan banyak sesi live session atau podcast teknis.,Instruksi yang diberikan melalui suara lebih mudah saya ikuti daripada instruksi yang hanya tertulis di layar.,Saya lebih suka membaca dokumentasi resmi atau buku teks Python untuk mendalami suatu materi.,Saya merasa harus menulis catatan atau rangkuman teks sendiri agar benar-benar memahami cara kerja sebuah fungsi.,Saya sangat menyukai penjelasan materi yang disajikan dalam bentuk daftar poin (bullet points) atau daftar langkah-langkah.,"Saat mencari solusi di internet, saya lebih memilih membaca artikel blog atau StackOverflow daripada menonton video.",Membaca komentar di dalam kode sangat membantu saya memahami tujuan dari baris kode tersebut.,Saya merasa bosan jika harus membaca teori terlalu lama tanpa mencoba langsung mengetik kodenya di komputer.,"Saya lebih cepat paham melalui metode trial and error (mencoba, salah, lalu memperbaiki sendiri).",Mengikuti tutorial live coding di mana saya mengetik bersamaan dengan instruktur adalah cara belajar favorit saya.,Saya lebih mudah memahami konsep Python jika saya mengaplikasikannya langsung ke dalam proyek nyata.,Saya merasa lebih percaya diri dengan kemampuan saya setelah berhasil memecahkan masalah koding secara mandiri.
+4/17/2026 20:46:16,dziarurr@gmail.com,Dziarur,15 - 19 Tahun,UNNES,Statistika ,5,4,5,4,4,3,4,3,3,4,2,2,5,3,3,5,5,3,4,5
+4/17/2026 20:57:43,budi.juarto@gmail.com,a,> 25 Tahun,a,a,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+4/17/2026 20:59:29,hkmfile@gmail.com,Ulum,20 - 24 Tahun,Trilogi,sistem informasi,3,4,5,1,2,4,5,2,3,1,5,4,5,3,5,3,1,2,4,4
+4/17/2026 21:00:12,muhageng61@gmail.com,Muhammad Ageng Ramadhan,20 - 24 Tahun,Universitas Indraprasta,Pendidikan Bahasa Inggris,4,5,5,4,5,5,5,5,5,5,3,5,4,4,4,5,5,3,5,5
+4/17/2026 21:01:59,anakja2008@gmail.com,Naufal Fakhrizal Rafli ,15 - 19 Tahun,Universitas Negeri Semarang ,Statistika terapan dan Komputasi ,4,4,4,4,3,3,4,4,3,3,3,3,5,2,4,5,5,3,3,4
+4/17/2026 21:04:05,cacc963d6y2547@student.devacademy.id,Nelson Ferdinand Wangsaputra ,20 - 24 Tahun,Binus,Computer Science ,4,5,1,1,1,3,3,1,3,1,1,1,5,3,5,5,4,4,5,5
+4/17/2026 21:05:43,michaelsuthirta@gmail.com,Michael Suthirta,20 - 24 Tahun,BINUS University,Computer Science,5,5,4,5,3,3,4,2,3,2,5,3,3,5,4,5,5,4,5,5
+4/17/2026 21:10:40,renato.nathaniel7@gmail.com,Nath,15 - 19 Tahun,Unnes,Ssd,2,5,4,4,2,3,4,2,4,4,2,1,4,2,2,5,5,4,5,5
+4/17/2026 21:12:25,stevenstj371@gmail.com,Steven Jeremiah ,20 - 24 Tahun,Bina Nusantara ,Computer Science ,5,4,5,5,3,3,5,1,1,1,1,4,5,3,5,4,5,1,3,5
+4/17/2026 21:15:12,jeraxel712@gmail.com,Jeremy,20 - 24 Tahun,Binus,Computer science,4,4,5,5,3,3,5,4,3,3,2,4,4,2,5,3,5,4,5,5
+4/17/2026 21:29:01,svirya232@gmail.com,Virya,20 - 24 Tahun,Politeknik Astra,Manajemen Informatika,5,5,4,5,3,3,4,4,5,3,3,1,4,3,2,4,5,3,5,5
+4/17/2026 21:38:34,zenyalnrd@gmail.com,ceyyi,15 - 19 Tahun,Universitas Indonesia,Administrasi Niaga,3,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,4,5,4,5
+4/17/2026 21:40:57,jonajonaan@gmail.com,Jonathan Kantohe,20 - 24 Tahun,Universitas Telkom Bandung,Informatika,5,4,4,5,5,5,4,4,5,5,5,5,5,4,5,5,5,4,5,5
+4/17/2026 21:50:27,sharonn1294@gmail.com,Sharon,20 - 24 Tahun,Binus,Computer Science,5,5,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,5
+4/17/2026 22:14:37,khaeranineneng@gmail.com,Neneng khaerani,> 25 Tahun,Uhamka,Fiskes,4,5,3,3,4,4,4,3,4,3,3,5,4,4,3,3,4,3,3,3
+4/17/2026 22:53:26,nailakhairiyah20@gmail.com,Naila Khairiyah,20 - 24 Tahun,Universitas Trilogi,Sistem Informasi,3,4,4,4,4,3,3,3,2,3,3,3,3,3,3,3,3,3,3,3
+4/17/2026 23:07:05,alzyralatifa@gmail.com,Alzyra Latifa Dwisma Putri,15 - 19 Tahun,Universitas Negeri Semarang,Statistika Terapan dan Komputasi,4,5,5,5,3,3,2,3,5,2,2,5,4,2,5,5,5,5,5,5
+4/17/2026 23:13:24,joshua.fariman@gmail.com,Joshua Jonathan Fariman,20 - 24 Tahun,Binus,Computer Science,4,5,5,4,3,2,4,2,2,3,1,3,3,1,3,5,5,5,5,5
+4/18/2026 0:30:37,m.ibnurosyid07@gmail.com,Muhammad Ibnu Rosyid ,20 - 24 Tahun,Pnj,Teknik Informatika dan Komputer ,5,4,5,5,4,2,5,4,2,3,2,2,4,4,5,5,4,4,5,5
+4/18/2026 5:38:17,muharakhmia@gmail.com,Muharakhmi Arrizki ,15 - 19 Tahun,Universitas Negeri Semarang ,Statistika dan Sains Data ,5,5,5,5,5,4,5,4,4,4,4,5,5,4,5,5,3,4,4,4
+4/18/2026 6:54:23,satriaiqbal539@gmail.com,Iqbal,15 - 19 Tahun,Unnes,Staterkom,4,4,4,3,3,4,4,3,3,2,3,4,3,2,2,3,4,3,4,4
+4/18/2026 7:31:59,claudiodjk1@gmail.com,Claudio David Julian Kurnia,20 - 24 Tahun,Binus,Computer Science,4,3,4,5,4,3,4,4,5,3,4,5,5,4,4,4,4,4,5,4
+4/18/2026 12:15:52,vindreass@gmail.com,Calvin Andreas,20 - 24 Tahun,BINUS University,Computer Science,4,5,5,4,3,4,4,3,4,4,2,2,4,3,4,4,4,4,4,5
+4/18/2026 14:54:33,hamrizqyt@gmail.com,Muhammad irham rizq,20 - 24 Tahun,Binus bandung,Computer science,5,4,5,4,5,4,3,4,5,5,5,4,4,4,3,5,4,4,5,5
+4/18/2026 15:51:51,albertlim2788@gmail.com,Albert,20 - 24 Tahun,ITB,Computer Science,4,2,5,4,5,2,5,4,5,1,4,5,4,2,5,5,5,4,5,3
+4/18/2026 16:56:02,heinrichlinkiyosaki@gmail.com,Heirnich Linkiyosaki Tosia ,20 - 24 Tahun,Institut Pariwisata dan Bisnis Internasional ,Manajemen Perhotelan,4,5,5,5,2,4,5,5,5,5,2,4,5,5,5,4,4,3,5,5
+4/18/2026 17:14:10,kreynaedt@gmail.com,Kinsley Reynard Tanjung,15 - 19 Tahun,Binus University,Computer science - Intelligent system,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5
+4/18/2026 17:45:35,reaganav@gmail.com,Reagan,20 - 24 Tahun,ASTRAtech,Teknologi Rekayasa Logistik,4,5,5,4,3,2,5,2,3,2,3,2,4,3,5,5,5,2,5,4
+4/18/2026 17:45:40,christiangandasurya@gmail.com,Alexander Christian Gandasurya ,20 - 24 Tahun,Binus University ,Computer Science ,5,5,5,4,4,3,4,4,3,3,4,4,5,4,4,4,5,3,5,5
+4/18/2026 18:37:27,kentoendan@gmail.com,Ken Argani Toendan,20 - 24 Tahun,Kyoto University of Advanced Science ,Mechatronics engineering ,5,4,5,5,5,1,4,2,3,2,4,3,5,2,5,5,3,2,4,4
+4/18/2026 19:01:41,marcoirawan56@gmail.com,Marco,20 - 24 Tahun,Prasetiya Mulya,Branding,4,5,4,4,5,5,4,4,5,5,4,3,5,5,4,5,5,5,4,4
+4/18/2026 19:03:30,charliegoldfin@gmail.com,Charlie,20 - 24 Tahun,De Montfort University,Media Production,5,5,5,5,5,4,5,4,3,4,3,5,5,3,5,5,5,5,5,5
+4/19/2026 13:54:02,ronaldwidura42@gmail.com,Ronald Widura,20 - 24 Tahun,Binus University,Creativepreneurship,4,4,4,3,4,5,4,3,4,5,2,3,4,5,4,1,3,4,5,4
+4/19/2026 20:19:47,alivezaid@students.unnes.ac.id,Arsyad,15 - 19 Tahun,Unnes,Statistika Terapan dan Komputasi,5,5,5,3,4,1,5,5,4,1,2,4,5,1,5,5,3,5,5,5
+4/20/2026 19:12:53,cdcc657d6y2101@student.devacademy.id,Piros ,20 - 24 Tahun,STIKOM Poltek Cirebon ,Sistem Informasi ,4,4,4,4,3,3,4,4,5,5,5,5,5,1,5,5,5,5,5,5
+4/20/2026 19:54:34,akbarbintang913@gmail.com,Bintang Akbar,20 - 24 Tahun,Univertas Islam Lamongan,Teknik Informatika,5,5,5,5,5,5,5,3,3,3,4,5,5,3,5,5,5,4,5,5
+4/20/2026 19:58:45,cfcc121d6y1080@student.devacademy.id,Ibrahimovich Paradise,15 - 19 Tahun,Telkom university surabaya ,Informatika,4,3,5,4,3,5,5,4,2,5,3,4,2,2,4,5,5,1,5,5
+4/20/2026 21:16:35,cdcc009d6y2672@student.devacademy.id,Arya Ivan Ghally,20 - 24 Tahun,Universitas Gunadarma,Informatika,4,5,1,5,3,5,5,3,3,2,3,4,4,5,5,5,5,5,5,5
+4/21/2026 19:37:08,projopurketo@gmail.com,projo purketo,15 - 19 Tahun,UI,psikologi ,3,5,4,5,4,4,5,4,5,4,5,4,5,3,4,4,5,4,3,5
+4/21/2026 19:37:54,artaminsar@gmail.com,arta minsar,20 - 24 Tahun,ITS,teknik elektro,3,5,4,5,4,4,3,5,4,3,5,4,5,3,5,4,5,4,5,4
+4/21/2026 19:38:34,kesyauli@gmail.com,kesya putri,> 25 Tahun,Undip,ekonomi ,3,4,5,4,3,5,4,1,4,3,2,3,4,5,4,4,5,4,5,4
+4/21/2026 19:39:22,kevinsgl262012@gmail.com,kevin jon,20 - 24 Tahun,ITB,pertambangan,4,5,4,2,4,4,5,4,2,5,4,5,3,5,4,4,5,4,4,5
+4/21/2026 19:40:14,irenel05@gmail.com,irene feby,15 - 19 Tahun,unpad,manajemen ,4,5,3,4,2,3,4,5,4,5,4,5,4,5,3,4,5,4,2,5
+4/21/2026 19:40:39,alliyahcantika9@gmail.com,alliyah cantika ,20 - 24 Tahun,Universitas Indonesia ,Kedokteran ,4,4,5,4,5,4,5,5,4,5,4,4,5,5,5,4,5,4,4,5
+4/21/2026 19:41:15,zoamyletizya@gmail.com,zoamy lucyana,15 - 19 Tahun,ugm,ilkom,4,5,4,3,2,4,5,2,5,4,4,5,4,4,5,3,5,4,2,5
+4/21/2026 19:42:12,tionarsg@gmail.com,tionar ,15 - 19 Tahun,UI,akuntansi,4,5,4,5,4,2,1,5,4,5,5,4,3,4,5,4,5,4,2,5
+4/21/2026 19:43:02,lulucesiana@gmail.com,Lulu ,15 - 19 Tahun,ugm,perbankan,3,5,4,1,5,4,5,4,5,4,4,5,4,5,4,2,5,4,3,5
+4/21/2026 19:44:00,rethatam@gmail.com,reta tambun,15 - 19 Tahun,ub,akuntansi,4,5,3,4,5,4,5,4,3,5,1,5,4,5,4,4,5,4,5,4
+4/21/2026 19:46:00,gabrielrik@gmail.com,gabriel ,15 - 19 Tahun,ITB,STEI,4,5,4,5,3,5,4,4,5,5,4,5,2,5,4,5,4,5,3,5
+4/21/2026 19:47:12,theofinsa@gmail.com,Theo fins,20 - 24 Tahun,USU,sastra inggris ,3,5,4,3,5,4,5,4,5,4,4,5,4,5,4,4,5,4,5,4
+4/21/2026 19:48:17,danyelazeb@gmail.com,danyela ,15 - 19 Tahun,Unesa,akuntansi,4,5,4,5,4,4,5,3,2,4,4,5,3,5,4,4,5,4,4,5
+4/21/2026 19:48:59,alystkarahayu@gmail.com,Alystka Rahayu ,20 - 24 Tahun,Universitas Indonesia ,Hukum ,2,1,3,2,1,2,1,3,2,1,2,1,1,3,2,1,2,2,3,1
+4/21/2026 19:49:55,aureliamarinens@gmail.com,Aurelia Marine ,> 25 Tahun,Universitas Diponegoro ,Akuntansi ,4,5,3,4,5,4,4,5,3,4,5,4,4,3,4,5,4,4,5,4
+4/21/2026 19:50:07,yohanipatric@gmail.com,yohani ,20 - 24 Tahun,ugm,kimia,4,5,3,5,2,4,5,4,5,4,5,4,5,4,5,2,5,3,4,5
+4/21/2026 19:51:09,benicojonathansmlg@gmail.com,Benico Jonathan ,20 - 24 Tahun,Universitas Brawijaya ,Manajemen ,5,4,4,3,5,3,4,5,4,4,5,4,5,5,3,4,5,5,4,5
+4/21/2026 19:51:50,aureliaputri@gmail.com,Aurel,15 - 19 Tahun,Universitas Indonesia ,Kedokteran ,2,1,3,2,2,2,1,3,2,1,2,1,2,2,1,2,3,1,2,2
+4/21/2026 19:52:02,noviputria@gmail.cm,novi,20 - 24 Tahun,unj,fisika ,4,5,4,3,5,3,5,4,3,5,5,4,4,5,3,4,5,4,5,4
+4/21/2026 19:52:49,bernadetteemmerich@gmail.com,Bernadette emmerich ,> 25 Tahun,Universitas Palangkaraya ,Hukum ,2,1,3,2,1,2,3,2,1,1,2,2,1,3,2,2,2,1,3,2
+4/21/2026 19:53:21,binambaryekti@gmail.com,Yekti,20 - 24 Tahun,Binus,Akuntansi ,2,3,1,2,2,2,1,3,2,1,1,3,2,2,1,2,1,1,3,2
+4/21/2026 19:53:55,massimozo@gmail.com,massimo,> 25 Tahun,IPB,fisika,4,5,3,5,4,4,5,3,5,4,4,5,4,5,4,4,5,4,5,4
+4/21/2026 19:54:45,benarda178@gmail.com,Benarda Hasianna ,20 - 24 Tahun,Universitas Negeri Semarang ,Kedokteran ,5,3,4,5,5,4,5,4,3,4,4,5,5,3,4,4,5,4,3,5
+4/21/2026 19:54:58,christian@gmail.com,christian,15 - 19 Tahun,UI,teknik,4,5,2,4,5,4,5,3,4,5,4,5,4,5,4,4,5,4,5,4
+4/21/2026 19:55:26,christinerutia@gmail.com,Christine Rutia ,20 - 24 Tahun,Universitas Indonesia,Akuntansi ,4,5,5,3,4,5,5,3,4,5,4,5,5,4,5,5,4,4,3,5
+4/21/2026 19:56:14,yohanajot@gmail.com,Yohana ,20 - 24 Tahun,unj,kimia,4,5,4,5,4,4,5,3,5,4,4,5,3,4,5,4,5,4,5,4
+4/21/2026 19:56:43,sesyakeyza@gmail.com,Sesya,20 - 24 Tahun,IPB university ,Pertanian ,2,2,1,2,2,2,1,3,2,1,2,1,3,2,2,4,2,1,2,2
+4/21/2026 19:56:56,muhammadabdull19@gmail.com,Muhammad Abdul ,> 25 Tahun,IPB,Teknologi Pangan,4,3,5,4,4,4,4,5,4,5,4,3,5,4,4,4,5,5,4,5
+4/21/2026 19:57:41,crystalsitanggangns@gmail.com,crystal lee,20 - 24 Tahun,IPB,pertanian ,4,5,3,5,4,4,5,4,5,4,3,5,4,5,4,5,4,5,3,5
+4/21/2026 19:58:15,dimasseptiawan6@gmail.com,Dimas Septiawan ,20 - 24 Tahun,Unpad,ilmu Komunikasi ,4,4,5,4,4,3,4,4,5,4,5,4,5,5,4,3,4,5,4,4
+4/21/2026 19:59:09,calvinallman2@gmail.com,Calvin Allman ,20 - 24 Tahun,Binus University ,Teknik Informatika ,4,5,5,4,5,4,3,4,5,5,4,5,5,4,5,3,4,4,5,4
+4/21/2026 19:59:53,disakurnia@gmail.com,Disa,15 - 19 Tahun,UPN veteran Jakarta ,Ilmu komunikasi ,2,1,3,2,1,2,2,1,3,2,2,1,2,2,3,4,2,1,1,2
+4/21/2026 20:00:05,ditahasianna@gmail.com,Dita Hasianna ,> 25 Tahun,Universitas Muhammadiyah Surakarta (UMS),Farmasi,5,4,4,3,4,5,5,4,5,5,4,3,4,5,5,4,5,4,5,5
+4/21/2026 20:00:38,keluargabahagians@gmail.com,bahagin,15 - 19 Tahun,Binus,ekonomi,5,4,5,4,3,4,5,4,5,4,4,5,3,2,1,3,5,4,5,4
+4/21/2026 20:00:53,elyancentoppman7@gmail.com,Elyancen Topman ,20 - 24 Tahun,Universitas Airlangga,Kedokteran Gigi,3,5,4,4,5,4,5,5,3,4,5,4,4,5,4,5,5,3,4,5
+4/21/2026 20:02:25,adindadeysa@gmail.com,Deysa,20 - 24 Tahun,BINUS,Akuntansi ,4,4,5,4,3,4,5,4,4,5,4,5,3,3,5,4,5,4,3,5
+4/21/2026 20:02:32,eliagerardus@gmail.com,elia,15 - 19 Tahun,UNJ,teknik mesin,4,5,4,5,2,4,5,4,5,3,3,5,4,5,3,5,4,3,5,4
+4/21/2026 20:02:34,erixzonfirnando38@gmail.com,Erixzon Firnando ,20 - 24 Tahun,Universitas Negeri Surabaya ,Hukum ,2,3,1,2,2,1,2,1,3,2,2,1,2,3,2,1,2,3,2,1
+4/21/2026 20:03:21,erikayowana72@gmail.com,Erika Yowana,> 25 Tahun,Universitas Airlangga,Manajemen ,5,5,3,4,5,4,5,5,4,3,4,4,5,4,4,3,5,4,5,5
+4/21/2026 20:04:06,fitryaqilaa8@gmail.com,Fitry Aqila ,20 - 24 Tahun,Universitas Telkom ,Teknik Informatika ,5,4,4,3,4,5,5,4,5,5,4,4,5,4,3,4,5,3,4,5
+4/21/2026 20:05:11,gloriaaulivia9@gmail.com,Gloria Aulivia ,20 - 24 Tahun,Universitas Sumatera Utara ,Kedokteran ,3,4,4,5,4,4,5,4,3,4,5,4,4,5,4,5,4,5,5,4
+4/21/2026 20:06:08,joelosteen9@gmail.com,Joel Osteen ,20 - 24 Tahun,Universitas Diponegoro ,Kelautan,5,4,3,4,4,4,5,5,4,3,4,4,5,4,5,4,5,4,3,4
+4/21/2026 20:07:13,josephinbeatrix6@gmail.com,Josephin Beatrix ,20 - 24 Tahun,UGM,Arkeologi,4,5,4,3,5,4,5,4,4,3,4,4,5,3,4,5,5,4,5,3
+4/21/2026 20:07:58,yusiibintaang51@gmail.com,Yusi Bintang ,20 - 24 Tahun,Universitas Diponegoro ,Sejarah ,5,4,3,4,4,5,4,4,5,4,5,5,4,3,4,5,5,4,3,5
+4/21/2026 20:08:00,azaleakirana@gmail.com,Azaa,20 - 24 Tahun,BINUS ,Akuntansi ,4,5,3,4,4,4,5,3,4,4,4,5,5,3,4,4,5,3,4,4
+4/21/2026 20:08:42,windyaastari@gmail.com,Windya Astari ,20 - 24 Tahun,Universitas Indonesia ,Ilmu Ekonomi ,3,4,4,5,4,4,5,4,3,4,5,4,4,3,5,4,5,5,4,3
+4/21/2026 20:09:16,nesaaulia@gmail.com,Nesa aulia,20 - 24 Tahun,Universitas Indonesia ,Hukum,4,5,3,4,4,5,3,4,4,5,2,3,2,1,2,4,5,5,3,4
+4/21/2026 20:09:37,ulioliviia82@gmail.com,Uli Olivia ,20 - 24 Tahun,Universitas Telkom ,Teknik Informatika ,2,3,2,1,1,2,3,2,1,2,1,2,2,3,2,2,3,1,2,3
+4/21/2026 20:10:18,febripratama@gmail.com,Febri ,15 - 19 Tahun,Universitas Indonesia ,Ekonomi ,4,5,5,3,4,4,3,5,4,4,4,5,5,3,4,4,4,5,3,4
+4/21/2026 20:11:36,bagasardhi@gmail.com,Bagas ardhi,20 - 24 Tahun,Universitas Indonesia ,Teknik ,4,4,5,3,4,3,5,4,4,5,2,3,2,1,4,5,3,4,4,5
+4/21/2026 20:13:02,kiranadewi@gmail.com,Kirana ,20 - 24 Tahun,IPB university ,Kehutanan ,4,5,3,4,4,4,5,5,3,4,2,4,2,2,3,4,5,3,4,4
+4/21/2026 20:14:18,susiregina@gmail.com,Susi,20 - 24 Tahun,Universitas Indonesia ,Psikologi ,5,3,4,4,5,4,5,3,4,4,4,5,3,4,4,4,5,3,5,4
+4/21/2026 20:15:22,sisilindri@gmail.com,Sisil indri,15 - 19 Tahun,UPN veteran Jakarta ,Ilmu komunikasi ,5,3,4,4,5,4,5,3,4,4,4,5,3,4,4,5,4,5,5,3
+4/21/2026 20:16:51,rahmadalya@gmail.com,Rahma,15 - 19 Tahun,BINUS ,Akuntansi ,4,5,3,4,4,4,5,3,4,4,2,4,4,1,3,4,5,5,3,4
+4/21/2026 20:18:07,haifazahra@gmail.com,Haifa Zahra ,15 - 19 Tahun,UPN veteran Jakarta ,Kedokteran ,4,4,5,3,4,4,3,5,4,4,2,5,4,2,3,4,5,3,4,4
+4/21/2026 20:20:48,deranita@gmail.com,Dera,20 - 24 Tahun,IPB university ,Pertanian ,5,4,4,5,3,4,3,5,4,4,4,5,3,4,4,4,5,3,4,4
+4/21/2026 20:21:55,cantikasyifa@gmail.com,Cantika,15 - 19 Tahun,Universitas Indonesia ,Psikologi ,4,5,5,3,4,4,5,3,4,4,2,5,4,2,3,5,3,4,4,5
+4/21/2026 20:23:16,selinayoan@gmail.com,Sellin,20 - 24 Tahun,UPN veteran Jakarta ,Hukum,4,5,3,4,5,4,5,3,4,4,4,5,3,4,4,4,5,3,4,4
+4/21/2026 20:26:21,kellanbinar@gmail.com,Kellan,15 - 19 Tahun,IPB university ,Kehutanan ,4,4,5,3,4,4,5,3,4,3,4,5,3,4,4,4,5,3,4,5
+4/21/2026 20:27:34,denissetya@gmail.com,Denis,20 - 24 Tahun,BINUS ,Akuntansi ,5,3,4,4,5,4,5,3,4,4,4,5,3,4,4,4,3,5,4,4
+4/21/2026 20:28:30,citrasila@gmail.com,Citra ,20 - 24 Tahun,BINUS ,Akuntansi ,4,5,3,4,4,4,3,5,4,4,4,4,5,3,4,4,5,4,3,4
+4/21/2026 20:35:27,winaherlina@gmail.com,Wina Herlina ,15 - 19 Tahun,UI,Kedokteran ,4,4,5,4,5,4,5,4,5,4,4,5,4,5,4,5,4,5,4,5
+4/21/2026 20:39:22,silvianadewi@gmail.com,Silviana dewi ,20 - 24 Tahun,UI,Psikologi ,4,5,5,5,4,4,5,5,4,5,4,4,5,5,4,4,5,5,4,5
+4/21/2026 20:40:49,farizaladitya@gmail.com,Farizal Aditya,20 - 24 Tahun,Universitas Indonesia,Manajemen,4,5,3,4,5,5,4,3,5,4,4,4,3,5,4,5,3,4,4,5
+4/21/2026 20:42:25,anasyakiranaa@gmail.com,Anasya Kirana,20 - 24 Tahun,Universitas Indonesia,Sastra Jepang,4,5,3,5,4,4,5,4,5,4,5,3,4,5,4,4,5,4,3,4
+4/21/2026 20:43:04,ayunirmala@gmail.com,Ayu nirmala ,20 - 24 Tahun,UI,Manajemen ,4,4,5,5,4,4,5,5,4,4,4,4,5,5,4,4,4,5,5,4
+4/21/2026 20:43:34,sarahwijayantoo@gmail.com,Sarah Wijayanto,20 - 24 Tahun,Universitas Negeri Jakarta,Ilmu Politik,5,4,5,3,4,5,4,5,4,5,4,5,3,5,4,5,4,5,3,5
+4/21/2026 20:44:55,erikarinastii@gmail.com,Erika Rinasti,20 - 24 Tahun,Universitas Pembangunan Nasional Veteran Jakarta,Kedokteran,5,3,5,4,5,4,5,4,5,4,5,3,4,5,4,5,4,5,4,5
+4/21/2026 20:45:43,salmanalfarisi@gmail.com,Salman Alfarisi ,20 - 24 Tahun,UI,Kedokteran ,4,4,5,5,5,4,4,5,5,5,4,4,5,5,5,4,4,5,5,5
+4/21/2026 20:48:53,veldawahyunii@gmail.com,Velda Wahyuni,20 - 24 Tahun,Universitas Indonesia,Teknik Sipil,4,4,5,4,3,5,4,5,3,5,4,4,5,5,4,5,4,4,3,5
+4/21/2026 20:49:56,bayumaulana@gmail.com,Bayu Maulana ,20 - 24 Tahun,UI,Teknik ,4,4,4,5,5,4,4,4,5,5,4,5,4,4,4,4,4,4,5,5
+4/21/2026 20:52:43,rahmatrinita@gmail.com,Rahma trinita ,15 - 19 Tahun,UI,Hukum,5,5,4,4,5,4,4,5,5,4,4,5,4,4,5,4,4,5,5,4
+4/21/2026 20:55:34,ronisudrajat@gmail.com,Roni Sudrajat ,20 - 24 Tahun,UI,Hukum ,4,4,4,5,5,5,5,5,4,4,4,4,5,5,4,4,4,5,5,4
+4/21/2026 20:55:42,devansatriaa@gmail.com,Devan Satria,20 - 24 Tahun,Institut Pertanian Bogor,Teknik Mesin,5,4,3,4,5,4,5,4,3,5,5,3,3,4,5,4,5,3,5,4
+4/21/2026 20:56:51,rafifanoor@gmail.com,Rafifa Noor,15 - 19 Tahun,Institut Pertanian Bogor,Agribisnis,4,5,3,5,4,5,4,3,4,5,4,5,3,4,5,5,4,3,4,4
+4/21/2026 21:00:46,falenanastasyaa@gmail.com,Falen Anastasya,20 - 24 Tahun,Universitas Indonesia,Sastra Belanda,5,3,4,5,4,5,4,3,5,4,4,4,5,3,5,4,5,3,4,5
+4/21/2026 21:01:45,intannurmalaa@gmail.com,Intan Nurmala,20 - 24 Tahun,Universitas Negeri Jakarta,Akuntansi,2,3,1,2,1,2,3,1,1,2,3,1,2,1,2,3,1,2,1,2
+4/21/2026 21:02:31,muhammadnaufal@gmail.com,Muhammad Naufal ,20 - 24 Tahun,UNJ,Teknik ,5,4,5,5,4,4,4,5,5,4,5,5,4,5,4,4,5,4,4,5
+4/21/2026 21:03:07,fadlanakbarr@gmail.com,Fadlan Akbar,20 - 24 Tahun,Universitas Negeri Jakarta,Pendidikan Akuntansi,2,2,1,3,2,1,3,2,1,2,2,3,1,2,1,2,1,3,2,1
+4/21/2026 21:04:28,iqbalramadhani@gmail.com,Iqbal ramadani ,15 - 19 Tahun,UNJ,Psikologi ,4,4,5,5,4,4,4,5,5,4,5,5,4,4,4,4,4,5,5,5
+4/21/2026 21:07:24,salmanalfarisi@gmail.com,Salman Alfarisi ,20 - 24 Tahun,UNJ,Teknik ,4,5,4,5,4,4,5,4,5,4,5,4,5,4,5,4,5,4,5,4
+4/21/2026 21:09:15,yanticahyati@gmail.com,Yanti cahyati ,20 - 24 Tahun,UNJ,Teknik,1,2,1,2,1,1,2,1,2,1,1,2,1,2,1,1,2,1,2,1
+4/21/2026 21:12:24,ilhamfrakoso@gmail.com,Ilham frakoso ,20 - 24 Tahun,UNJ,Ekonomi ,1,2,2,1,2,1,2,2,1,2,1,2,2,1,2,1,2,2,1,2
+4/21/2026 21:24:42,adityapratama@gmail.com,Aditya Pratama ,15 - 19 Tahun,UNJ,Ilmu olahraga ,1,1,2,1,1,1,1,2,1,1,1,1,2,1,1,1,1,2,1,1
+4/21/2026 21:34:59,mesyasrimulyani@gmail.com,Meisya srimulyani ,> 25 Tahun,UNJ,Ilmu pendidikan ,1,1,2,2,1,2,2,1,1,2,1,1,2,2,1,1,1,2,2,1
+4/21/2026 21:36:34,lelifittriani@gmail.com,Leli fitriani ,20 - 24 Tahun,UNJ,Teknik ,4,5,4,5,4,4,4,5,5,5,4,5,4,4,5,5,5,4,4,5
+4/21/2026 21:39:24,firajulianti@gmail.com,Fira julianti ,15 - 19 Tahun,UNJ,Matematika dan IPA ,4,4,4,5,5,4,4,5,5,4,5,5,4,4,4,5,5,5,4,4
+4/21/2026 21:43:17,hadiwijaya@gmail.com,Hadi Wijaya ,> 25 Tahun,UNJ,Ekonomi ,4,4,5,4,4,4,5,4,5,4,4,4,4,5,5,4,4,5,5,4
+4/21/2026 21:46:30,shintamaharani@gmail.com,Shinta Maharani ,20 - 24 Tahun,UNJ,Teknik ,5,5,4,5,5,5,5,4,5,5,4,5,5,4,5,4,5,4,5,5
+4/21/2026 21:49:29,shireennabilla@gmail.com,Sheren Nabila ,15 - 19 Tahun,UI,Psikologi ,5,5,4,4,5,5,5,4,4,5,4,4,5,4,5,4,5,5,4,4
+4/21/2026 21:52:08,putrikhoerunisa@gmail.com,Putri Khoirunnisa ,15 - 19 Tahun,UI,Kedokteran ,4,4,4,5,5,4,4,5,5,4,4,5,4,5,5,4,4,4,5,5
+4/21/2026 21:54:25,wulandari@gmail.com,Wulandari ,> 25 Tahun,UI,Psikologi ,5,5,4,4,5,4,4,5,5,4,4,5,5,5,4,4,4,5,5,4
+4/22/2026 8:05:14,jihanananta@students.unnes.ac.id,Jihan ,15 - 19 Tahun,Universitas Negeri Semarang,Statistika Terapan dan Komputasi,4,4,4,3,4,3,4,3,3,2,3,4,4,3,4,4,4,4,4,4
