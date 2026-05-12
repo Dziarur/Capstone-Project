@@ -9,3 +9,17 @@ py -m streamlit run Dashboard.py <br>
 
 Run Streamlit App <br>
 https://capstone-project-dashboard.streamlit.app/
+
+
+**Untuk Fullstack:**
+
+Jangan push main dahulu, checkout ke fullstack-migrate
+**git checkout fullstack-migrate**
+
+**Frontend** <br>
+cd New_Capstone_Fullstack\frontend
+npm run dev
+
+**Backend** <br>
+cd New_Capstone_Fullstack\backend
+npm start
