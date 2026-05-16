@@ -35,3 +35,5 @@ jspm_packages/
 .venv
 venv/
 .venv/
+*.sqlite3
+*.db
